@@ -1,0 +1,11 @@
+total 0
+drwxr-xr-x@ 3 elisavage  staff   96 Apr 10 17:04 examples
+-rw-r--r--  1 elisavage  staff    0 Apr 10 17:28 lab-01-folders.txt
+drwxr-xr-x@ 5 elisavage  staff  160 Apr 10 16:29 p1
+drwxr-xr-x@ 2 elisavage  staff   64 Apr  7 13:41 p2
+drwxr-xr-x@ 2 elisavage  staff   64 Apr  7 13:41 p3
+drwxr-xr-x@ 2 elisavage  staff   64 Apr  7 13:41 p4
+drwxr-xr-x@ 2 elisavage  staff   64 Apr  7 13:41 p5
+drwxr-xr-x@ 2 elisavage  staff   64 Apr  7 13:41 p6
+drwxr-xr-x@ 2 elisavage  staff   64 Apr  7 13:42 p7
+drwxr-xr-x@ 2 elisavage  staff   64 Apr  7 13:42 p8
